@@ -7,13 +7,13 @@
 # 二、套餐说明
 ## 普通套餐
 ### 普通套餐 A
-<img width="367" height="399" alt="image" src="https://github.com/user-attachments/assets/926d9467-e2f4-49da-af88-78a06452f793" />
+<img width="367" height="399" alt="image" src="https://github.com/user-attachments/assets/926d9467-e2f4-49da-af88-78a06452f793" /><img width="365" height="399" alt="image" src="https://github.com/user-attachments/assets/41fc7174-1608-4843-9823-eac152c2a677" />
 
 ### 普通套餐 B
 <img width="365" height="399" alt="image" src="https://github.com/user-attachments/assets/41fc7174-1608-4843-9823-eac152c2a677" />
 
 ### 普通套餐 C
-<img width="364" height="401" alt="image" src="https://github.com/user-attachments/assets/53e38b0b-b9f4-467c-a748-f20c0b13ba51" />
+<img width="364" height="401" alt="image" src="https://github.com/user-attachments/assets/53e38b0b-b9f4-467c-a748-f20c0b13ba51" /><img width="364" height="399" alt="image" src="https://github.com/user-attachments/assets/04f989fc-2f31-4a70-86ad-2386277b443e" />
 
 ### 普通套餐 D
 <img width="364" height="399" alt="image" src="https://github.com/user-attachments/assets/04f989fc-2f31-4a70-86ad-2386277b443e" />
