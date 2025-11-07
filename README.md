@@ -1,8 +1,11 @@
 # [速度机场](https://速度机场.com)
-[速度机场](https://速度机场.com)——2025年极力推荐的VPN、翻墙🚀工具，价格巨划算、稳定性超高，适合各类人需求的机场
+[速度机场](https://速度机场.com) ——2025年极力推荐的VPN、翻墙🚀工具，价格巨划算、稳定性超高，适合各类人需求的机场
 
 # 一、机场概述
-  [速度机场](https://速度机场.com)为新建机场，含普线和IEPL专线，节点均为VLESS+Reality节点，安全稳定快速。最低套餐仅需1元/月。
+  [速度机场](https://速度机场.com) 含普线和IEPL专线，节点均为VLESS+Reality节点，安全稳定快速。最低套餐仅需1元/月。
+  官网：https://速度机场.com
+  备用地址：https://sudujichang.com
+  Telegram：https://t.me/sudujichang
 
 # 二、套餐说明
 ## 普通套餐
@@ -16,4 +19,4 @@
 <img width="366" height="399" alt="image" src="https://github.com/user-attachments/assets/f4bf49c9-4d1c-4458-affd-2d8368ae5113" /><img width="366" height="399" alt="image" src="https://github.com/user-attachments/assets/33f8852b-3ff1-4e92-8da9-21b50a7ef5af" />
 
 # 三、支付方式
-[速度机场](https://速度机场.com)支持支付宝和微信支付，方便快捷。
+[速度机场](https://速度机场.com) 支持支付宝和微信支付，方便快捷。
